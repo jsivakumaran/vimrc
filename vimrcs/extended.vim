@@ -27,6 +27,9 @@ set guioptions-=R
 set guioptions-=l
 set guioptions-=L
 
+"set line numbers
+set number
+
 " Colorscheme
 set background=dark
 colorscheme peaksea
